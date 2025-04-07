@@ -1,0 +1,44 @@
+{
+  "budget": [
+    {
+      "id": 1,
+      "date": "2025-04-01",
+      "type": "income",
+      "category": "월급",
+      "detailCategory": "정기급여",
+      "amout": 3000000,
+      "memo": "4월 급여"
+    },
+    {
+      "id": 2,
+      "date": "2025-04-02",
+      "type": "expense",
+      "category": "식비",
+      "detailCategory": "점심",
+      "amout": 12000,
+      "memo": "회사 근처 식당"
+    }
+  ],
+  "incomeCategory": [
+    { "id": 1, "name": "월급" },
+    { "id": 2, "name": "용돈" },
+    { "id": 3, "name": "이자" },
+    { "id": 4, "name": "기타수입" }
+  ],
+  "expenseCategory": [
+    { "id": 1, "name": "식비" },
+    { "id": 2, "name": "교통비" },
+    { "id": 3, "name": "유흥" },
+    { "id": 4, "name": "공과금" }
+  ],
+  "periodicExpense": [
+    {
+      "id": 1,
+      "date": "2025-04-01",
+      "type": "expense",
+      "category": "공과금",
+      "amout": 100000,
+      "memo": "전기요금 자동이체"
+    }
+  ]
+}
