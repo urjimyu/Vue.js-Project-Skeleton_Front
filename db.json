@@ -28,7 +28,7 @@
   "expenseCategory": [
     { "id": 1, "name": "식비" },
     { "id": 2, "name": "교통비" },
-    { "id": 3, "name": "유흥" },
+    { "id": 3, "name": "취미생활" },
     { "id": 4, "name": "공과금" }
   ],
   "periodicExpense": [
